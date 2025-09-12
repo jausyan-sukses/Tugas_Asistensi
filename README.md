@@ -80,4 +80,4 @@ int main() {
    - kubus sama dengan persegi dalam 3D
    - tinggal tambahin dikit code menghitung luas persegi
 
-codenya tulis ulang di komputer yaa.. boleh coding di codeblocks, di vscode, atau di notepad, atau kalau temen2 ngga punya aplikasi coding bisa coding di [situs ini](https://www.onlinegdb.com/online_c_compiler)  itu situs buat coding online, nah nanti filenya disimpan dengan format <mark>soal-1/2_Nama_NRP</mark> kalau sudah di kumpulin [disini](https://drive.google.com/drive/folders/1uq4RSEmgHym5ykhPtUuSiQ5als4E0R9R?usp=sharing) masing masing pserta buat folder baru ya.. kasih nama foldernya nama temen-temen yaa..
+codenya tulis ulang di komputer yaa.. boleh coding di codeblocks, di vscode, atau di notepad, atau kalau temen2 ngga punya aplikasi coding bisa coding di [situs ini](https://www.onlinegdb.com/online_c_compiler)  itu situs buat coding online, nah nanti run codenya dan di screenshoot dan disimpan dengan format <mark>soal-1/2_Nama_NRP</mark> kalau sudah temen2 bisa buat folder gdrive dan upload tugas ke gdrive, masing masing pserta buat folder baru ya.. kasih nama foldernya nama temen-temen yaa..
