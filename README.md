@@ -82,5 +82,6 @@ int main() {
    - cari rumus menghitung luas segitiga
    - 1/2 = 0.5
    - tinggal edit dikit code menghitung luas persegi
+   - kalau bisa buat pakai function nilai pluss ++++++ xixixixi ;)
 
 codenya tulis ulang di komputer yaa.. boleh coding di codeblocks, di vscode, atau di notepad, atau kalau temen2 ngga punya aplikasi coding bisa coding di [situs ini](https://www.onlinegdb.com/online_c_compiler)  itu situs buat coding online, nah nanti run codenya dan di screenshoot dan disimpan dengan format <mark>soal-1/2_Nama_NRP</mark> kalau sudah temen2 bisa buat folder gdrive dan upload tugas ke gdrive, masing masing pserta buat folder baru ya.. kasih nama foldernya nama temen-temen yaa..
