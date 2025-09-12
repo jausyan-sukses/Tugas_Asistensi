@@ -70,14 +70,17 @@ int main() {
 
     int main() {
         return 0;
+        int sigma;
         printf("in Engineering ITS we trust!\n");
+        scanf("%%d", sigma);
+        printf("your sigma is %d\n", sigma) 
     }
    ```
-2. buat code utuk menghitung volume kubus:
+2. buat code utuk menghitung luas segitiga (membuat operasi matematika sederhana):
 
    hint:
-   - cari rumus menghitung volume kubus
-   - kubus sama dengan persegi dalam 3D
-   - tinggal tambahin dikit code menghitung luas persegi
+   - cari rumus menghitung luas segitiga
+   - 1/2 = 0.5
+   - tinggal edit dikit code menghitung luas persegi
 
 codenya tulis ulang di komputer yaa.. boleh coding di codeblocks, di vscode, atau di notepad, atau kalau temen2 ngga punya aplikasi coding bisa coding di [situs ini](https://www.onlinegdb.com/online_c_compiler)  itu situs buat coding online, nah nanti run codenya dan di screenshoot dan disimpan dengan format <mark>soal-1/2_Nama_NRP</mark> kalau sudah temen2 bisa buat folder gdrive dan upload tugas ke gdrive, masing masing pserta buat folder baru ya.. kasih nama foldernya nama temen-temen yaa..
